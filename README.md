@@ -1,9 +1,9 @@
-# 👨‍💻 Jhonnes Henrique
+# 👨🏾‍💻 Jhonnes Henrique
 
 **`Desenvolvedor FullStack`**
 
 👋 Olá, me chamo Jhonnes  
-👨‍💻 Estudante de Sistemas de Informação na FHO  
+👨🏾‍💻 Estudante de Sistemas de Informação na FHO  
 🚀 Full Stack Developer em ascensão  
 
 Sou apaixonado por tecnologia e estou sempre explorando novas ferramentas, linguagens e frameworks.  
